@@ -1,0 +1,1390 @@
+,Owner Group,Notes,s1_etr,s1_etr_time,s1_svc_rstr,s1_no_prob,s1_hold,s1_cd
+0,Global Premium Desk,"Dear Customer,
+
+Please confirm the current latency and optimal latency to be observed on circuit.",0.0,0,0,0,0.0,1.0
+1,Global Premium Desk,"Dear Customer,
+
+Please check and confirm; between which sites you are observing packet drops and what is the current latency.",0.0,0,0,0,0.0,1.0
+2,Global Premium Desk,"Dear Customer, 
+
+Please check and confirm; between which sites you are observing packet drops and what is the current latency.",0.0,0,0,0,0.0,1.0
+3,Global Premium Desk,"Dear Customer, 
+
+Please check and confirm; between which sites you are observing packet drops and what is the current latency.
+
+Also provide relevant logs.",0.0,0,0,0,0.0,1.0
+4,Premium SOC,"Dear Harish,
+
+As discussed over call, we are not receiving MAC from the customer end device.
+
+The possible cause for the alarms could be any one of the following reasons: Loose connection, faulty ethernet connector, or faulty cable between the MUX port to your network device.
+
+Request you to Jack Out-Jack In the cable at XYZ MUX to your network device and check for any fault in cable. 
+
+Please perform following actions step by step: 
+
+1. Cable connectivity to your device from MUX. 
+2. Shut/unshut the interface.
+3. Jack out/jack in the cable from your end & connect link on a laptop.
+4. Check the status & contact us if still issue persist.",0.0,0,0,0,0.0,1.0
+5,Global Premium Desk,"Dear Customer, 
+
+Please check and confirm; between which sites you are observing packet drops and what is the current latency. 
+
+Also provide relevant logs.",0.0,0,0,0,0.0,1.0
+6,Service Provider_Premium,"
+
+CAUTION: This email originated from outside of the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe. 
+
+Dear Team,
+
+We done FLT with customer but still link is showing down.We are getting mac from our provider end but not getting mac from customer end port is showing up at router end.
+
+Recheck on priority basis and revert us.
+
+LOGS:
+
+===
+
+KURCCDR-1K1X-MBB-WRT02#sh ip int brief
+Interface              IP-Address      OK? Method Status                Protocol
+Te0/0/0                unassigned      YES NVRAM  administratively down down
+Te0/0/1                unassigned      YES NVRAM  administratively down down
+GigabitEthernet0/0/0   10.30.251.102   YES manual up                    up
+GigabitEthernet0/0/1   172.20.52.6     YES manual up                    up
+GigabitEthernet0/0/2   97.48.27.129    YES NVRAM  up                    up
+GigabitEthernet0/0/3   172.20.52.137   YES man",0.0,0,0,0,0.0,0.0
+7,Tx Premium Enterprise Support,"Dear Customer,
+
+Our internal team is working on this, will update you shortly.",0.0,0,0,0,0.0,0.0
+8,Premium SOC,"Dear Customer,
+
+Your complaint is being acknowledged, team is working on your issue.Please be assured for next update soon with our end observations.",0.0,0,0,0,0.0,1.0
+9,Premium SOC,"Dear Customer,
+
+We have verified router logs and switch logs, no configuration issue observed. However link is down.",0.0,0,0,0,0.0,1.0
+10,Premium SOC,"Dear customer,
+
+We tried to reach local customer Sukhdev   and also  on  , however number is incorrect.
+
+
+We also tried to reach Mr. Devang   but number was busy.
+
+
+We will try again after 10 mins",0.0,0,0,0,0.0,1.0
+11,Premium SOC,$ U,0.0,0,0,0,0.0,0.0
+12,Service Provider_Premium,"
+Dear Customer ,
+
+Acknowledge your mail. We are getting this addressed on priority. For a brisk action am adding GCSC Escalations <GCSC.Escalations@XYZcommunications.com>
+
+Also for all future escalation please use the below matrix . 
+
+For progressive update on the TT please use https://portal.XYZcommunications.com/ [https://portal.XYZcommunications.com/]
+
+Thanks and Regards,
+
+",0.0,0,0,0,0.0,0.0
+13,Global Premium Desk,"Dear Customer, 
+
+We have checked end to end XYZ Media and didn't find any abnormality , 
+Please do share problematic logs from your end as well so we can check precisely. 
+Till the time we are keeping TT on hold. 
+We will close the TT from our end in case of no revert within next 8 hours.",0.0,0,1,1,1.0,0.0
+14,Global Premium Desk,"Dear Customer, 
+
+We are in co-ordination with our field team for media observations and we will share next update in 90 mins.",1.0,90 mins,0,0,0.0,0.0
+15,Global Premium Desk,"Dear Team,
+
+Please check and share current link status.
+
+Logs:
+
+VCG-Interval statistics
+
+
+VCG-1-4-109
+Start Time	End Time	Idle Seconds	ES	SES	UAS	Valid Frames Transmitted	Valid Frames Received	Valid Bytes Transmitted	Valid Bytes Received	Core Header Single Error Corrections	Type Header Single Error Corrections	Core Header CRC Errors	Type Header CRC Errors	Payload FCS Errors	VCG Interval Valid
+06-Jun-2019 15:45:57	06-Jun-2019 16:00:57	0	0	0	0	47854851	39647107	35783226172	8716741372	0	0	0	0	0	1
+06-Jun-2019 15:30:57	06-Jun-2019 15:45:57	0	0	0	0	50358291	43637015	36506685525	11159160604	0	0	0	0	0	1
+06-Jun-2019 15:15:57	06-Jun-2019 15:30:57	0	0	0	0	58492515	48882493	46344555230	11241025770	0	0	0	0	0	1
+06-Jun-2019 15:00:57	06-Jun-2019 15:15:57	0	0	0	0	58261121	48810903	43949379250	10126267664	0	0	0	0	0	1
+06-Jun-2019 14:45:57	06-Jun-2019 15:00:57	0	4	3	0	62127324	51771782	47116284113	10901434547	154526	197	8671	75	1494	1
+06-Jun-2019 14:30:57	06-Jun-2019 14:45:57	0	0	0	0	65087",0.0,0,0,0,0.0,1.0
+16,Global Premium Desk,"Dear Customer, 
+
+Please check and confirm; between which sites you are observing packet drops and what is the current latency. 
+
+Also provide relevant logs.",0.0,0,0,0,0.0,1.0
+17,Service Provider_Premium,"Dear Team,
+
+We are observing loss on E1 port at customer end located at BTP Laurel Block, Suddaguntepalya(Jogapalya),
+
+Please check local connectivity and revert.
+
+Checked at: BGLR_BTPARVND_01 
+
+06/06/2019 13:26:17 Loss of Signal Major E1-1-6-1 Unacknowledged",0.0,0,0,0,0.0,1.0
+18,Tx Premium Enterprise Support,"Dear Customer,                        
+
+ We are checking the XYZ transmission network based on your complaint. We will share further update shortly.",0.0,0,0,0,0.0,0.0
+19,Premium SOC,"Dear Harsh,
+
+We tried to contact local customer Ginkal  number shared by you , however number was busy.",0.0,0,0,0,0.0,1.0
+20,Tx Premium Enterprise Support,"Dear Customer,    
+
+Earlier We are observed circuit level alarms incoming within the XYZ transmission network, the possible cause for the alarms could be any one of the following reasons: Dual fiber cut, fiber degradation, configuration issue or equipment problem.  
+
+We are continuing to isolate the exact faulty segment and will update you within an hour.
+
+
+==================================================================
+
+
+VCG-Interval statistics
+
+
+VCG-1-8-109
+Start Time	End Time	Idle Seconds	ES	SES	UAS	Valid Frames Transmitted	Valid Frames Received	Valid Bytes Transmitted	Valid Bytes Received	Core Header Single Error Corrections	Type Header Single Error Corrections	Core Header CRC Errors	Type Header CRC Errors	Payload FCS Errors	VCG Interval Valid
+06-Jun-2019 19:44:59	06-Jun-2019 19:59:59	0	20	10	880	3718418	4590086	1139007594	3821215843	1998119	699	117	0	68602	1
+06-Jun-2019 19:29:59	06-Jun-2019 19:44:59	0	479	187	391	3975906	4690115	1065556267	3770945512	1359343	471	49	0	46232	1
+06",1.0,hour,0,0,0.0,0.0
+21,Tx Premium Enterprise Support,"Dear Customer,            
+
+We are pleased to inform you that the services have been restored for the above circuit. We will share a detailed RFO within 24 hours. 
+
+Please check and confirm circuit performance.
+
+=============================================
+
+                                  Reset Current 15 Min Statistics                       Reset Current Day Statistics 
+
+
+VCG-1-8-109
+BINNED COUNTERS	Current Interval (821 secs)	Previous 15 min	Current Day	Previous Day
+Idle Seconds	0	0	0	0
+ES	0	17	941	10116
+SES	0	2	218	1025
+UAS	0	873	2279	55956
+Valid Frames Transmitted	6613431	14514008	2306154483	2148661628
+Valid Frames Received	7672280	11614524	3189310217	3835059434
+Valid Bytes Transmitted	2303046224	5037911652	500340924854	448033368905
+Valid Bytes Received	9914201241	13952710172	4289869224539	5437783281420
+Core Header Single Error Corrections	0	1810304	6293331	57582829
+Type Header Single Error Corrections	0	1705	3221	153615
+Core Header CRC Errors	0	99	1005	22",1.0,24 hours,1,0,1.0,1.0
+22,Premium SOC,"ear NOC team,
+
+We have verified router logs and switch logs, no configuration issue observed. However, link is down.
+
+We tried to reach local customer Sukhdev  , however number is incorrect.
+
+We also tried to reach Mr. Devang  but number was busy.
+
+We also tried to contact on alterante number  Ginkal but number is continiously busy.
+
+Please share alternate local customer contact details to proceed further.
+
+We will hold this docket till next 4 hours.
+
+
+",1.0,4 hours,0,0,0.0,1.0
+23,Service Provider_Premium,"Dear Team, 
+
+We are observing loss on E1 port at customer end located at BTP Laurel Block, Suddaguntepalya(Jogapalya), 
+
+Please check local connectivity and revert. 
+
+Checked at: BGLR_BTPARVND_01 
+
+06/06/2019 13:26:17 Loss of Signal Major E1-1-6-1 Unacknowledged",0.0,0,0,0,0.0,1.0
+24,Premium SOC,"Dear Harish,
+
+As discussed over call , we are not receiving MAC from the customer end device.
+
+The possible cause for the alarms could be any one of the following reasons: Loose connection, faulty ethernet connector, or faulty cable between the MUX port to your network device.
+
+Request you to Jack Out-Jack In the cable at XYZ MUX to your network device and check for any fault in cable. 
+
+Please perform following actions step by step: 
+
+1. Cable connectivity to your device from MUX. 
+2. Shut/unshut the interface.
+3. Jack out/jack in the cable from your end & connect link on a laptop.
+4. Check the status & contact us if still issue persist.",0.0,0,0,0,0.0,1.0
+25,Service Provider_Premium,"Tried to call on  even try to call  
+LC: jitendra number getting busy.
+
+Please check and confirm the power status",0.0,0,0,0,0.0,1.0
+26,Service Provider_Premium,"Dear Customer,
+
+We are investigating the subjected case with our concern team. We will keep you posted on the same.",0.0,0,0,0,0.0,0.0
+27,Service Provider_Premium,"Dear Customer
+
+We are observing loss on E1 port at customer end located at BTP Laurel Block, Suddaguntepalya(Jogapalya), 
+
+Please check local connectivity and revert. 
+ 
+06/06/2019 13:26:17 Loss of Signal Major E1-1-6-1 Unacknowledged.
+IF any loop break testing is required please call us on 02066357347.",0.0,0,0,0,0.0,1.0
+28,Service Provider_Premium,"Dear Customer,
+
+We are verifying the LM media for subjected circuit.
+
+Meanwhile,request to perform the following checks at the site and update us:-
+1. Confirm Power status on network equipment
+2. Check WAN cabling & Update Port Status
+3. Check Modem LED status (if applicable)
+4. Local Site Contact & Site access hours
+
+Logs :
+# ping router 1767 192.168.75.45 
+PING 192.168.75.45 56 data bytes
+Request timed out. icmp_seq=4.
+Request timed out. icmp_seq=5.
+
+---- 192.168.75.45 PING Statistics ----
+5 packets transmitted, 3 packets bounced, 0 packets received, 100% packet loss
+# show time 
+Thu Jun  6 20:45:55 IST 2019",0.0,0,0,0,0.0,1.0
+29,Service Provider_Premium,"
+
+CAUTION: This email originated from outside of the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe. 
+
+Hello,
+
+We have updated the customer and requested the checks be performed, once we have a reply we will update you.  Please do not close this ticket.
+
+Thank you,
+
+",0.0,0,0,0,0.0,1.0
+30,Service Provider_Premium,"Dear Team,
+
+We would like to inform you that we do not see any alarm in XYZ transmission network. A long pending alarm is observed from the network device at your site that is connected to the XYZ MUX port at ETH-1-7-1 (NGR_COMPUC4C_03) located at POP ROOM_SP Info-city
+
+The possible cause for the alarms could be any one of the following reasons : Loose connection, Faulty Ethernet connector, or Faulty cable between the MUX port to your network device
+
+Request you to Jack Out-Jack In the cable at XYZ MUX to your network device and check for any fault in cable. 
+
+Checked at: NGR_COMPUC4C_03 
+
+07/28/2018 16:11:43	Link Down	Major	ETH-1-7-1	Unacknowledged
+
+Ethernet-Interval statistics
+
+ETH-1-7-1
+Start Time	End Time	Idle Seconds	ES	SES	UAS	Frames Transmitted	Frames Received	Frames Dropped Rx	FCS Error Frames	Octets Transmitted	Frames With Deferred Transmissions	Octets Received	Frame Too Short Errors	Frame Too Long Errors	Pause Frames Transmitted	Pause Frames Received	Ethernet",0.0,0,0,1,0.0,1.0
+31,Service Provider_Premium,"Hi Team,
+
+As discussed on call with Aniket L/B Verified , getting loop it seems no issue in XYZ media.",0.0,0,0,1,0.0,1.0
+32,Service Provider_Premium,"Dear Customer,
+
+As discussed over call with Mr Ganesh ,he is still observing link to be down,Further he is aligning engineer tomorrow to check the the issue and request to keep this ticket on hold.",0.0,0,0,1,1.0,1.0
+33,Service Provider_Premium,"Dear customer,
+
+As per update from last mile team, they do not see any alarm in XYZ transmission network. A long pending alarm is observed from the network device at your site that is connected to the XYZ MUX port at ETH-1-7-1 (NGR_COMPUC4C_03) located at POP ROOM_SP Info-city 
+
+The possible cause for the alarms could be any one of the following reasons : Loose connection, Faulty Ethernet connector, or Faulty cable between the MUX port to your network device 
+
+Request you to Jack Out-Jack In the cable at XYZ MUX to your network device and check for any fault in cable.",0.0,0,0,1,0.0,1.0
+34,Service Provider_Premium,"Hi Team,
+
+We are observing link is still down.
+
+As per update from last mile team, they do not see any alarm in XYZ transmission network. A long pending alarm is observed from the network device at your site that is connected to the XYZ MUX port at ETH-1-7-1 (NGR_COMPUC4C_03) located at POP ROOM_SP Info-city
+
+The possible cause for the alarms could be any one of the following reasons : Loose connection, Faulty Ethernet connector, or Faulty cable between the MUX port to your network device
+
+Request you to Jack Out-Jack In the cable at XYZ MUX to your network device and check for any fault in cable.
+
+Also request to perform the following checks at the site and update us to check further:-
+
+1. Confirm Power status on network equipment
+2. Check WAN cabling & Update Port Status
+3. Check Modem LED status (if applicable)
+4. Local Site Contact & Site access hours
+
+Awaiting for your valuable response.
+
+Keeping this case on hold till next update from your end.",0.0,0,0,1,0.0,1.0
+35,Service Provider_Premium,"Dear Team,
+
+Please check and update us on below mail.",0.0,0,0,1,0.0,1.0
+36,Service Provider_Premium,"
+CAUTION: This email originated from outside of the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe. 
+
+Hi team,
+
+We are not observing any issue in our media, But at Etisalat end getting errors from XYZ media.
+
+C2-VIL Internal
+
+Regards,
+
+",0.0,0,0,0,0.0,0.0
+37,BFSI_SOC,"Dear Customer,
+
+We are observing the link is working fine with no packet drop.
+
+We are observing the link is stable for 2 days.
+
+Kindly check and confirm the services in case any issue shares us relevant logs to troubleshoot the issue further.
+
+We are keeping this docket on hold for the next 2 hours, post no reply will proceed for the closer of this docket under the customer end.
+
+
+PE_CE_LOG
+
+*A:mu-me01-hpe01# show router 8629 ospf neighbor ""Lag 2:1005:116"" detail 
+
+===============================================================================
+OSPFv2 (0) neighbors for interface ""Lag 2:1005:116"" (detailed)
+===============================================================================
+-------------------------------------------------------------------------------
+Neighbor : 10.221.3.1
+-------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
+Neighbor Rtr Id : 10.221.2.1 Interface: Lag",1.0,2 hours,1,1,1.0,1.0
+38,BFSI_SOC,"Dear Customer,
+
+We are checking with our internal team for media observation .
+
+Please share customer end power status and LED indications on XYZ  MUX.",0.0,0,0,0,0.0,1.0
+39,Service Provider_Premium,"
+
+Dear Team,
+
+Update us current status.
+
+With Regards, 
+
+Vetriselvam S
+
+Global Network Operation Center
+
+",0.0,0,0,0,0.0,0.0
+40,Premium SOC,"Dear Shubham,
+
+As discussed over call ticket was raised for Circuit ID 091AHME030015489016 having WAN IP 115.110.97.129/30 (at PE side) and at CE side link is terminated on Fortinet (Wan IP 115.110.97.130) .
+
+Static Protocol is running between PE-CE and we have not able to ping CE end IP suspecting ICMP blocking at CE side.
+
+Please confirm What is the setup after Fortinet in LAN side , because as per shared logs BGP was flapped .
+
+We are suspecting BGP at your LAN side was flapped or BGP between point to point tunnel was flapped  and that is not managed by XYZ.
+
+Please share us the exact logs and if still you have any query please reach us on under sign number to discuss.
+
+
+Logs :
+
+*A:ad-me01-hpe02#  ping 115.110.97.130 source 115.110.97.129                                  
+PING 115.110.97.130 56 data bytes
+Request timed out. icmp_seq=1.
+Request timed out. icmp_seq=2.
+Request timed out. icmp_seq=3.
+Request timed out. icmp_seq=4.
+Request timed out. icmp_seq=5.",0.0,0,0,0,0.0,1.0
+41,Global Premium Desk,"Dear Customer,
+
+We are verifying our media and will share the observation in next 90 mins.
+We appreciate your time and patience.",1.0,90 mins,0,0,0.0,0.0
+42,Service Provider_Premium,"Hi Team,
+
+Please update us on below mail.",0.0,0,0,1,0.0,1.0
+43,Global Premium Desk,"
+
+CAUTION: This email originated from outside of the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe. 
+
+Hello Team,
+
+We are observing packet drops issue from Thane and CtrlS to NGR Location for the subnets: 10.71.8.0/25 & 10.71.8.128/15
+
+Pinging 10.71.8.181 with 32 bytes of data:
+
+Reply from 10.71.8.181: bytes=32 time=47ms TTL=57
+
+Reply from 10.71.8.181: bytes=32 time=42ms TTL=57
+
+Request timed out.
+
+Reply from 10.71.8.181: bytes=32 time=7ms TTL=57
+
+Reply from 10.71.8.181: bytes=32 time=37ms TTL=57
+
+Reply from 10.71.8.181: bytes=32 time=7ms TTL=57
+
+Reply from 10.71.8.181: bytes=32 time=30ms TTL=57
+
+Request timed out.
+
+Request timed out.
+
+Reply from 10.71.8.181: bytes=32 time=50ms TTL=57
+
+Reply from 10.71.8.181: bytes=32 time=52ms TTL=57
+
+Reply from 10.71.8.181: bytes=32 time=33ms TTL=57
+
+Request timed out.
+
+Reply from 10.71.8.181: bytes=32 time=50ms TTL=57
+
+Reply from 10",0.0,0,0,0,0.0,0.0
+44,Service Provider_Premium,"
+
+CAUTION: This email originated from outside of the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe. 
+
+Hello XYZ,
+
+This issue is a packet loss issue, the circuit is not currently down.  We are requesting that you investigate for packet loss and dispatch to prove the DMARC if you cannot find any issues.   Our end user has checked their equipment and cabling and has found no fault.
+
+Thank you,
+
+",0.0,0,0,0,0.0,0.0
+45,Service Provider_Premium,"Dear customer,
+
+Kindly perform the FLT and patch us on call while performing FLT. Also ask LC to connect laptop facing XYZ MUX &  do shut unshut the port of your device.",0.0,0,0,0,0.0,1.0
+46,Service Provider_Premium,"Hi Team,
+
+We do not see any issue in XYZ media.
+We are still not observing traffic from the network device at your site that is connected to the XYZ MUX port at Enterprise Centre Nehru
+
+Please perform the FLT and patch us on call while performing FLT. Also ask LC to connect laptop facing XYZ MUX & do shut unshut the port of your device.
+
+Kindly recheck at your end and update to us for further troubleshooting. 
+
+Sharing logs for reference 
+
+Checked at: MUMB_S_S_3 
+
+Ethernet-Interval statistics
+
+
+ETH-1-5-3
+Start Time	End Time	Idle Seconds	ES	SES	UAS	Frames Transmitted	Single Collision Frames	Multiple Collision Frames	Frames Received	Frames Dropped Rx	FCS Error Frames	Alignment Errors	Octets Transmitted	Frames With Deferred Transmissions	Late Collisions	Frames Aborted Due To Excessive Collisions	Octets Received	Frame Too Short Errors	Frame Too Long Errors	Multicast Frames Transmitted	Broadcast Frames Transmitted	Multicast Fram",0.0,0,0,0,0.0,1.0
+47,EV_SOC,"
+Subject: RE: Unable to dial to US number
+
+Dear Customer,
+
+As discussed we captured logs for reported number & observed some abnormality.
+We will check & update you soon.
+
+
+
+Thanks & Regards,
+",0.0,0,0,0,0.0,0.0
+48,Service Provider_Premium,"FlowPoint-Interval statistics
+
+
+091MUMB1258010052297::FP_VCG-1-2-112
+Start Time	End Time	Octets TX	Octets RX	Frames TX	Frames RX	Discards TX	Discards RX	Green Frames RX	Yellow Frames RX	Red Frames RX	MF Green Frames RX	MF Yellow Frames RX	MF Red Frames RX	ACLDiscards	Interval Valid	Timestamp	Green Bytes RX	Yellow Bytes RX	Red Bytes RX	MF Green Bytes RX	MF Yellow Bytes RX	MF Red Bytes RX
+06-Jun-2019 17:45:00	06-Jun-2019 18:00:00	130774	218594	1408	2545	0	2545	0	0	0	0	0	0	0	1	1559824200	0	0	0	0	0	0
+06-Jun-2019 17:30:01	06-Jun-2019 17:45:01	33114	125411	434	1423	0	1423	0	0	0	0	0	0	0	1	1559823301	0	0	0	0	0	0
+06-Jun-2019 17:15:00	06-Jun-2019 17:30:00	114249	196000	1201	2532	0	2532	0	0	0	0	0	0	0	1	1559822400	0	0	0	0	0	0
+06-Jun-2019 17:00:00	06-Jun-2019 17:15:00	58872	274483	843	2496	0	2496	0	0	0	0	0	0	0	1	1559821500	0	0	0	0	0	0
+06-Jun-2019 16:45:00	06-Jun-2019 17:00:00	50538	174688	703	2102	0	2102	0	0	0	0	0	0	0	1	1559820600	0	0	0	0	0	0
+06-Jun-2019 16:30:00	06-Jun-2019 16:45:00	184888	372272",0.0,0,0,0,0.0,0.0
+49,Global Premium Desk,"CHNI_VSB5F2B_60_TJ1600 
+
+
+
+
+VCG-1-1-113
+Start Time	End Time	Idle Seconds	ES	SES	UAS	Valid Frames Transmitted	Valid Frames Received	Valid Bytes Transmitted	Valid Bytes Received	Core Header Single Error Corrections	Type Header Single Error Corrections	Core Header CRC Errors	Type Header CRC Errors	Payload FCS Errors	VCG Interval Valid
+06-Jun-2019 12:15:00	06-Jun-2019 12:30:00	20	204	0	194	3795478	2270431	2349431259	1053268221	25438823	5036	33758	125	262133	1
+06-Jun-2019 12:00:00	06-Jun-2019 12:15:00	0	0	0	900	15131518	11521914	10150872976	5123796736	25786882	23403	36216	325	1179811	1
+06-Jun-2019 11:45:00	06-Jun-2019 12:00:00	0	0	0	900	13017375	10804270	8476348616	5009934450	22269829	18731	27106	189	992269	1
+06-Jun-2019 11:30:00	06-Jun-2019 11:45:00	0	0	0	900	12746714	10171351	8777121966	4451899933	27439458	21786	39805	287	1078533	1
+06-Jun-2019 11:15:00	06-Jun-2019 11:30:00	0	0	0	900	15112966	11776283	10750690166	4978298129	23138051	21296	29280	226	1027830	1
+06-Jun-2019 11:00:00	06-Jun-201",0.0,0,0,0,0.0,0.0
+50,Global Premium Desk,"Dear Team,
+
+We are observing link is down due to dual path media issue.
+
+We will share ETR shortly.",0.0,0,0,0,0.0,0.0
+51,Global Premium Desk,"Dear Customer,
+
+We are seeing intermittently Pause Frames on ETH port from customer network at INTEL SRR 1 location.
+
+Suspecting  high bandwidth utilization/busty traffic on link. Please monitor circuit utilization.
+
+Logs -
+
+
+
+ETHGE-1-11-3
+Start Time	End Time	Idle Seconds	ES	SES	UAS	Frames Transmitted	Single Collision Frames	Multiple Collision Frames	Frames Received	FCS Error Frames	Alignment Errors	Octets Transmitted	Late Collisions	Frames Aborted Due To Excessive Collisions	Octets Received	Frame Too Short Errors	Frame Too Long Errors	Multicast Frames Transmitted	Broadcast Frames Transmitted	Multicast Frames Received	Broadcast Frames Received	Collisions	Pause Frames Transmitted	Pause Frames Received	Ethernet Interval Valid	FCS Error Bytes
+06-Jun-2019 11:30:00	06-Jun-2019 11:45:00	1	0	0	0	707509	0	0	630944	0	0	417231872	0	0	375725392	0	0	18	0	0	0	0	0	0	1	0
+06-Jun-2019 11:15:00	06-Jun-2019 11:30:00	1	0	0	0	1011289	0	0	1972305	0	0	563221368	0	0	2467624010	0	0	18	0	0	0	0	0	0",0.0,0,1,1,0.0,1.0
+52,Service Provider_Premium,"We do not see any alarm in XYZ transmission media.
+
+Our team has been working on the first level troubleshooting against your ticket. From our logs, we have observed that the link was active and working fine during the mentioned period. Regret for the inconvenience caused to you in any other form. Please find our logs as attached below.
+
+In case there is a mismatch, please share the logs at your end for the above said period, for further troubleshooting. In case, if the logs are not available within the next 8 hours, we will be closing the ticket under ""customer end Issue"".
+
+Awaiting for your early revert.",0.0,0,1,1,0.0,1.0
+53,Service Provider_Premium,"Dear Team,
+
+Earlier circuit was riding on longest path as there was media issue in shortest path which has been resolved now.
+
+Now circuit is automatically switched back on to the shortest path. Please check and confirm the current latency status to assist further.
+
+In case if no revert within next 4 hours, then we will close this case post sharing the RFO assuming that latency is normal.
+
+
+RP/0/RSP1/CPU0:ETH-KADB-C1#sh int TenGigE0/6/0/0
+Thu Jun  6 09:03:42.094 GMT
+TenGigE0/6/0/0 is up, line protocol is up
+  Interface state transitions: 2477
+  Hardware is TenGigE, address is 10f3.1104.e050 (bia 10f3.1104.e050)
+  Layer 1 Transport Mode is WAN
+  Description: **KADB-HDB Via Bellary-Link-20-192.1_3-IOR_ IOR_154211**
+  Internet address is Unknown
+  MTU 9220 bytes, BW 10000000 Kbit (Max: 10000000 Kbit)
+     reliability 255/255, txload 0/255, rxload 20/255
+  Encapsulation ARPA,
+  Full-duplex, 10000Mb/s, LR, link type is force-up
+  output flow control is off, input flow c",1.0,4 hrs,1,0,1.0,1.0
+54,Service Provider_Premium,"Dear customer,
+ETR provided by our field team is 3:30 Hrs from now. We will share detailed RFO once FE reached at site.",1.0,3:30 Hrs,0,0,0.0,0.0
+55,Service Provider_Premium,"Dear Customer,
+ 
+Still we are not getting any relevant logs from your end. 
+ 
+So we are closing this case under customer end issue as no issue observed in XYZ media.",0.0,0,1,1,0.0,1.0
+56,Service Provider_Premium,"""We are pleased to inform you that the services have been restored for the above ticket. We will share a detailed RFO within 24hrs. 
+
+Please check and confirm circuit performance""
+
+
+VCG-Interval statistics
+
+
+VCG-1-4-101
+Start Time	End Time	Idle Seconds	ES	SES	UAS	Valid Frames Transmitted	Valid Frames Received	Valid Bytes Transmitted	Valid Bytes Received	Core Header Single Error Corrections	Type Header Single Error Corrections	Core Header CRC Errors	Type Header CRC Errors	Payload FCS Errors	VCG Interval Valid
+06-Jun-2019 04:00:02	06-Jun-2019 04:15:02	0	0	0	900	865	0	55720	0	0	0	0	0	0	1
+06-Jun-2019 03:45:02	06-Jun-2019 04:00:02	0	0	0	900	864	0	55656	0	0	0	0	0	0	1
+06-Jun-2019 03:30:02	06-Jun-2019 03:45:02	0	0	0	900	866	0	55784	0	0	0	0	0	0	1
+06-Jun-2019 03:15:02	06-Jun-2019 03:30:02	0	0	0	900	866	0	55784	0	0	0	0	0	0	1
+06-Jun-2019 03:00:02	06-Jun-2019 03:15:02	0	0	0	900	818	0	53244	0	0	0	0	0	0	1
+06-Jun-2019 02:45:02	06-Jun-2019 03:00:02	0	0	0	900	580	0	40514	0	0	0	0	0	0	1
+06-Jun-2019 02:30:",0.0,0,1,0,0.0,0.0
+57,Service Provider_Premium,"
+CAUTION: This email originated from outside of the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe. 
+
+Dear Team,
+
+Please share current observation regarding high latency.
+
+Optimal latency: 21 ms 
+
+Current latency: 25 ms
+
+Regards
+",0.0,0,0,0,0.0,0.0
+58,Service Provider_Premium,"Dear Team,
+
+Currently we are observing circuit level alarms incoming from/within the XYZ transmission network, the possible cause for the alarms could be any one of the following reasons : Dual fiber cut, fiber degradation, configuration issue or equipment problem.
+We are continue to isolate the exact faulty segment and will update you within 90 min.",0.0,0,0,0,0.0,0.0
+59,Service Provider_Premium,"Dear Team,
+
+Please confirm Link status.
+
+Still we do not observed any hard down alarm.",0.0,0,0,1,0.0,0.0
+60,Service Provider_Premium,Checked at : LVSB_TJ1500_MPT-LAG,0.0,0,0,0,0.0,0.0
+61,Montreal_SOC,"Dear Moiz,
+
+Please reach us  on below number to check lively.
+",0.0,0,0,0,0.0,1.0
+62,BFSI_SOC,"We are observing CE node isolated at customer location. The possible cause for the alarms could be any one of the following reasons : last mile fiber cut or power issue at customer site.
+
+We are requesting you to share below details with us for further investigation and restoration of services.
+
+1. Power status of XYZ mux at customer location with MUX LED indications.
+2. Local customer details and availability.
+
+We will keep this ticket on hold till tomorrow morning as it is non business hours.",0.0,0,0,0,1.0,1.0
+63,Global Premium Desk,"Dear customer,
+
+We are checking our media as per your request, will share our end observation in next 90 minutes.",1.0,90 mins,0,0,0.0,0.0
+64,Montreal_SOC,"Dear Customer,
+
+We checked below reported sample but unable to find hit in XYZ network.
+Please reach us on below number to check lively. 
+
+",0.0,0,0,0,0.0,1.0
+65,EV_SOC,"
+Subject: RE: Call drop issue (M&S) |
+
+Hi Vinoth,
+
+Let me check the samples and will get back to you with observations.",0.0,0,0,0,0.0,0.0
+66,Service Provider_Premium,"
+
+Hi Steve,
+
+We are still observing link to be down also not getting CE end MAC address.
+
+Please check and confrim the current link status also request you to please share problematic logs for more clarity on the issue.
+
+Below logs for  the reference:
+
+# show router 1767 arp 
+
+===============================================================================
+
+ARP Table (Service: 1767)
+
+===============================================================================
+
+IP Address      MAC Address       Expiry    Type   Interface
+
+-------------------------------------------------------------------------------
+
+192.168.75.45                     04h00m00s Dyn    Lag 1:1014:128
+
+192.168.75.46   84:26:2b:81:ea:b2 00h00m00s Oth[I] Lag 1:1014:128
+
+-------------------------------------------------------------------------------
+
+No. of ARP Entries: 2
+
+===============================================================================
+
+# show time 
+
+Fri Jun",0.0,0,0,0,0.0,1.0
+67,BFSI_SOC,"Subject: Re: LINK DOWN--Circuit-091BANG623013755500-XYZ SOUTH-Awaited || CSR02060619167135
+ 
+Dear Customer,
+
+Still no reply from your end. Please confirm the power status at CE and LED indications on CIENA MUx.
+
+
+In case of no reverts within next 4 hours, we will consider the link to be stable and we will proceed for ticket closure.
+
+
+Regards,
+
+",1.0,4 hours,0,0,0.0,1.0
+68,Premium SOC,"Dear Customer,
+Your complaint is being acknowledged, team is working on your issue.Please be assured for next update soon with our end observations.",0.0,0,0,0,0.0,0.0
+69,Premium SOC,"Dear Customer,
+ Checking  with last mile team will share the further update & observation within 60 min",1.0,60 mins,0,0,0.0,0.0
+70,Service Provider_Premium,"
+
+CAUTION: This email originated from outside of the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe. 
+
+Hello XYZ,
+
+The packet loss on this circuit has now cleared, can you please provide us with a RFO.
+
+Thank you,
+
+",0.0,0,0,0,0.0,0.0
+71,Tx Premium Enterprise Support,"Dear Customer,
+
+""We are pleased to inform you that the services have been restored for the above ticket. We will share a detailed RFO within 24hrs. 
+
+Please check and confirm circuit performance""",1.0,24hours,1,0,0.0,1.0
+72,Global Premium Desk,"Dear Team,
+
+Please check and share current link status.
+
+If still issue persist please share affected logs with time tamp to conclude this case.
+
+If no revert in ext 8 hours; we will move towards case closure.",0.0,0,1,1,1.0,1.0
+73,Service Provider_Premium,"Dear Vodafone Team,
+
+We have received errors from Vfn network.
+
+Please check at your end & revert us.
+
+If no revert in next 3 hours we will close the ticket under customer end issue.",1.0,3 hours,1,1,0.0,1.0
+74,Service Provider_Premium,"Currently services are running on longer route, we are checking with internal team for the same, we will update you in next 90 mins.",1.0,90 mins,0,0,0.0,0.0
+75,Service Provider_Premium,"Dear Team,
+
+We are observing alarm on E1 port at  EMRI 
+Please check local connectivity and revet.
+
+Please call for L/B test
+
+In case of no revert in next 8 hrs we will close this case from our end.",0.0,0,0,0,0.0,0.0
+76,Service Provider_Premium,"Hi Supplier 1 team,
+
+We are checking internally ETR : 90 mins.",1.0,90 minutes,0,0,0.0,0.0
+77,Global Premium Desk,"Dear Customer, 
+
+We are checking with our internal team for media observation, 
+
+We will share further updates within next 90 Mins. 
+
+Appreciate your patience during the time.",1.0,90 Mins,0,0,0.0,0.0
+78,Premium SOC,"Called to customer Mr. Devang however number is ringing only.
+Also called  customer Mr.Ginkal  however he disconnected cable.",0.0,0,0,0,0.0,1.0
+79,Service Provider_Premium,"Dear Customer,
+
+Kindly confirm the Latency, Now service is running on shortest path.
+
+We are coordinating with our internal team for RFO.",0.0,0,1,0,0.0,1.0
+80,Global Premium Desk,"Dear Customer, 
+
+Please check and confirm; between which sites you are observing packet drops and what is the current latency. 
+
+Also provide relevant logs",0.0,0,0,0,0.0,1.0
+81,Global Premium Desk,"Dear customer,
+
+Please do share flapping LOGs to check further.",0.0,0,0,0,0.0,1.0
+82,Tx Premium Enterprise Support,"Dear Customer,
+
+Our internal team is working on this, will update you shortly.",0.0,0,0,0,0.0,0.0
+83,Service Provider_Premium,"Dear Customer ,
+
+We have checked our international media no issue found",0.0,0,0,1,0.0,0.0
+84,Global Premium Desk,"We are resolving this ticket and the link is under the monitor. 
+
+Please let us know if in case there is an issue with this link and if in case there will be no reply in the next 24 hours the ticket will be closed.",0.0,0,1,1,0.0,0.0
+85,Service Provider_Premium,"Dear Team,
+
+Thanks for the confirmation.
+
+There was no issue observed in XYZ network since the initial, so we are closing this case from our side under customer end issue.",0.0,0,1,1,0.0,0.0
+86,Service Provider_Premium,"Dear Team,
+
+We are observing the erroring in main path & earlier circuit was running on same path. 
+
+Now we have manually switched the circuit on errorfree secondary path to make the circuit stable. 
+
+Please check and confirm the current link status. 
+
+BGL_BIL_TJ1500_01 :
+
+TU12-1-10-1-1-2-3-3
+ 	ES	SES	UAS	SEP	EB	BBE	ESR	SESR	BBER	SEPI	Interval Valid	ES-FE	SES-FE	BBE-FE	UAS-FE	SEP-FE	Far End Interval Valid
+Current Interval(436secs)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Previous 15 Min	37	0	0	0	902	902	0.0411568	0	0.000125417	0	1	3	0	904	0	0	1
+Current Day	5291	8	12	0	21632	14807	0.18433	0.000278707	6.50617e-05	0	1	49	7	9008	0	0	0
+Previous Day	2435	0	0	0	3242	3242	0.0846427	0	1.40868e-05	0	1	24	0	932	0	0	1",0.0,0,1,0,0.0,1.0
+87,Service Provider_Premium,"Dear Customer,
+
+We are pleased to inform you that the services have been restored for the above ticket. We will share a detailed RFO within 24hrs. 
+
+Please check and confirm circuit performance.",1.0,24 hours,1,0,0.0,1.0
+88,Service Provider_Premium,"Dear Customer,
+
+We do not see any alarm in XYZ transmission media.
+
+Our team has been working on the first level troubleshooting against your ticket. From our logs, we have observed that the link was active and working fine during the mentioned period. Regret for the inconvenience caused to you in any other form. Please find our logs as attached below.
+
+In case there is a mismatch, please share the logs at your end for the above said period, for further troubleshooting. In case, if the logs are not available within the next 8 hours, we will be closing the ticket post sharing the RFO.
+
+Awaiting for your early revert.
+
+Please find the below logs. 
+
+Checked at:  MHLI_TBSS_02  	
+			
+Settings:			
+Link Integrity: Disable			
+MTU: 9600			
+Auto-Negotiation : Disable			
+Flow Control: manual Disable			
+Speed and Duplex:100Mbps, Full Duplex			
+
+
+VCG-Interval statistics
+
+
+VCG-1-7-105
+Start Time	End Time	Idle Seconds	ES	SES	UAS	Valid Frames Transmitted	Valid Frames Received",0.0,0,0,1,0.0,1.0
+89,Global Premium Desk,"Dear Customer, 
+
+Please check and confirm; between which sites you are observing packet drops and what is the current latency. 
+
+Also provide relevant logs",0.0,0,0,0,0.0,1.0
+90,Service Provider_Premium,"Dear Team,
+
+We are observing  MUX faulty at location   Shivaji Garden,Moonlight stop, Nandambakkam post, Poonamallee road,Manapakkam, Chennai.
+
+Please Provide  2 hrs downtime.
+
+We are awaiting your early  revert.",1.0,2 hrs,0,0,0.0,1.0
+91,Global Premium Desk,"Dear Customer, 
+
+We are checking with our internal team for media observation, 
+
+We will share further updates within next 90 Mins. 
+
+Appreciate your patience during the time.",1.0,90 Mins,0,0,,0.0
+92,Global Premium Desk,"Dear Customer,
+
+Link is affected due to dual path issue in our media.
+
+We will shortly share you ETR for the case.",0.0,0,0,0,0.0,0.0
+93,Service Provider_Premium,"Due to fluctuation in worker path and fiber cut in protection path service was riding on third path.
+
+After manual switching service now running on its worker path. Please check & confirm the current latency status.
+
+We will share RFO shortly.",0.0,0,1,0,0.0,0.0
+94,Service Provider_Premium,"Dear Team,
+
+We are observing the latency on the circuit as link is running on longest path.
+
+We will switch the circuit back on shortest path and will update you within next 60 mins.",1.0,60 mins,0,0,0.0,0.0
+95,Service Provider_Premium,"Dear customer,
+
+We are pleased to inform you that the services have been restored for the above ticket. We will share a detailed RFO within 24hrs. 
+
+Please check and confirm circuit performance
+
+Checked at:GRGN_MOTOROLA_02 
+VCG-Interval statistics
+
+
+VCG-1-7-101
+Start Time	End Time	Idle Seconds	ES	SES	UAS	Valid Frames Transmitted	Valid Frames Received	Valid Bytes Transmitted	Valid Bytes Received	Core Header Single Error Corrections	Type Header Single Error Corrections	Core Header CRC Errors	Type Header CRC Errors	Payload FCS Errors	VCG Interval Valid
+06-Jun-2019 06:00:00	06-Jun-2019 06:15:00	0	0	0	0	29425	29026	8828457	16364887	0	0	0	0	0	1
+06-Jun-2019 05:45:00	06-Jun-2019 06:00:00	29	0	0	692	10921	9773	3950550	5495372	0	0	0	1	1	1
+06-Jun-2019 05:30:00	06-Jun-2019 05:45:00	0	0	0	900	58	0	3712	0	0	0	0	0	0	1
+06-Jun-2019 05:15:00	06-Jun-2019 05:30:00	0	0	0	900	62	0	3968	0	0	0	0	0	0	1
+06-Jun-2019 05:00:00	06-Jun-2019 05:15:00	0	0	0	900	62	0	3968	0	0	0	0	0	0	1
+06-Jun-2019 04:45:00	06-Jun-2019",0.0,0,1,0,0.0,0.0
+96,Service Provider_Premium,"We do not see any alarms in XYZ transmission network.  
+
+Request you to recheck the circuit status and update us to assist for further troubleshooting.",0.0,0,0,1,0.0,1.0
+97,Service Provider_Premium,"Dear Customer,
+Sharing the logs
+
+Checked at CHNI_AGILEELECTRIC_02 
+
+Add:  AGILE  CHENGALPET  CHENNAI
+
+Uptime: 0 Days, 0 Hrs, 9 Min
+
+06/07/2019 11:20:53   System Reboot                                                             TXC8R2-1-5  POWER_ON_RESET",0.0,0,0,0,0.0,0.0
+98,Service Provider_Premium,"Dear Customer,
+We are observing alarm is showing clean please check and confirm link status.",0.0,0,1,0,0.0,1.0
+99,Global Premium Desk,"Dear Customer,
+
+Link was affected due to fluctuation in NLD media. Currently we can see the link is stable. Kindly confirm the current link status.",0.0,0,1,0,0.0,0.0
+100,Service Provider_Premium,"Dear team,
+
+We do not see any alarms in XYZ transmission network. 
+
+Our team has been working on the first level troubleshooting against your ticket. From our logs, we have observed that the link was active and working during the mentioned period. Regret for the inconvenience caused to you in any other form. 
+
+Please find our logs as attached below. 
+
+In case there is a mismatch, please share the logs at your end for the above said period, for further troubleshooting. In case, if the logs are not available within the next 8 hours, we will be closing the ticket under ""customer end Issue"". 
+
+Awaiting for your early revert. 
+
+Please find the below logs.",0.0,0,1,1,0.0,1.0
+101,Service Provider_Premium,"Dear Team, 
+
+We do not see any alarms or errors in XYZ transmission network. 
+
+Earlier we had observed frame drops on Ethernet port which is connected to customer network device located at SHARES AND STOCKS (INDIA) LIMITED 6
+
+So we are closing this case under customer end high bandwidth utilization issue.",0.0,0,1,1,0.0,1.0
+102,Premium SOC,"Dear Customer,
+
+We have verified router logs and switch logs, no configuration issue observed. However, link is down.",0.0,0,0,0,0.0,0.0
+103,Global Premium Desk,"
+
+
+
+
+VCG-1-7-101
+Start Time	End Time	Idle Seconds	ES	SES	UAS	Valid Frames Transmitted	Valid Frames Received	Valid Bytes Transmitted	Valid Bytes Received	Core Header Single Error Corrections	Type Header Single Error Corrections	Core Header CRC Errors	Type Header CRC Errors	Payload FCS Errors	VCG Interval Valid
+06-Jun-2019 08:30:02	06-Jun-2019 08:45:02	654	0	0	0	0	384	0	124420	0	0	0	0	0	1
+06-Jun-2019 08:15:02	06-Jun-2019 08:30:02	657	0	0	0	0	384	0	124437	0	0	0	0	0	1
+06-Jun-2019 08:00:01	06-Jun-2019 08:15:01	690	0	0	0	0	282	0	114042	0	0	0	0	0	1
+06-Jun-2019 07:45:01	06-Jun-2019 08:00:01	684	0	0	0	0	282	0	113877	0	0	0	0	0	1
+06-Jun-2019 07:30:01	06-Jun-2019 07:45:01	687	0	0	0	0	283	0	113572	0	0	0	0	0	1
+06-Jun-2019 07:15:03	06-Jun-2019 07:30:03	672	0	0	0	0	450	0	124296	0	0	0	1	0	0
+06-Jun-2019 06:45:02	06-Jun-2019 07:00:02	0	0	0	0	31979	27906	5150158	4923936	0	0	0	0	0	1
+06-Jun-2019 06:30:01	06-Jun-2019 06:45:01	0	0	0	0	30066	25786	4879318	3748407	0	0	0	0	0	1
+06-Jun-2019",0.0,0,0,0,,0.0
+104,Service Provider_Premium,"We do not see any alarms in XYZ transmission network.												
+												
+Our team has been working on the first level troubleshooting against your ticket. From our logs, we have observed that the link was active and working during the mentioned period. Regret for the inconvenience caused to you in any other form. Please find our logs as attached below.												
+												
+In case there is a mismatch, please share the logs at your end for the above said period, for further troubleshooting. In case, if the logs are not available within the next 8 hours, we will be closing the ticket under ""customer end Issue"".												
+												
+Awaiting for your early revert.												
+												
+Please find the below logs.												
+
+
+We have provided Layer 1 service, which won't result in Slow response issue, please check & L2  & L3.",1.0,8 hours,0,1,1.0,1.0
+105,Global Premium Desk,Subject: RE: High,0.0,0,0,0,0.0,0.0
+106,Global Premium Desk,"Dear Customer,
+
+We didn't observing any abnormalities within the XYZ TX media.
+Please share us the problematic logs to assist further.
+
+Please check below logs:-
+
+One end:-
+NGR_WNS_T8_03 
+
+VCG-Interval statistics
+
+
+VCG-1-4-103
+Start Time	End Time	Idle Seconds	ES	SES	UAS	Valid Frames Transmitted	Valid Frames Received	Valid Bytes Transmitted	Valid Bytes Received	Core Header Single Error Corrections	Type Header Single Error Corrections	Core Header CRC Errors	Type Header CRC Errors	Payload FCS Errors	VCG Interval Valid
+06-Jun-2019 04:11:51	06-Jun-2019 04:26:51	0	0	0	0	42692	193300	4625838	16985326	0	0	0	0	0	1
+06-Jun-2019 03:56:51	06-Jun-2019 04:11:51	0	0	0	0	46723	195543	5136488	17265122	0	0	0	0	0	1
+06-Jun-2019 03:41:51	06-Jun-2019 03:56:51	0	0	0	0	43648	234503	4742322	31130876	0	0	0	0	0	1
+06-Jun-2019 03:26:51	06-Jun-2019 03:41:51	0	0	0	0	43179	240926	4804969	34215508	0	0	0	0	0	1
+06-Jun-2019 03:11:51	06-Jun-2019 03:26:51	0	0	0	0	40256	233071	4371048	28139076	0	0	0	0	0	1",,,1,1,,1.0
+107,Service Provider_Premium,"Spoke with customer Rinkesh  he is observing link is up but not able to login in device.
+
+He is checking for same he will update ask to keep on hold",0.0,0,0,0,1.0,1.0
+108,Service Provider_Premium,"Dear Customer,
+
+We are still waiting for power confirmation at customer site located at Infotech Ethernia, Infotech, Godrej, C Wing, 5th Wakdewadi,NGR 411005.
+
+Please let us know LED indication on mux and share local customer details and access availability on priority.
+
+We tried to reach you on , but no response.",0.0,0,0,0,0.0,1.0
+109,Service Provider_Premium,"Dear Team, 
+
+We do not see any alarms in XYZ transmission network. 
+
+Please provide the corresponding down logs if you are still facing the issue.
+
+
+
+
+
+E1-1-6-4-Line Performance Attributes
+ 	CV-L	ES-L	SES-L	UAS-L	Line Interval Valid
+Current Interval (120 secs)	0	0	0	0	1
+Previous 15 Min	0	0	0	0	1
+Current Day	0	0	0	0	1
+Previous Day	0	0	0	0	1
+
+
+Reset Current 15 Min Statistics at Line Level                       Reset Current Day Statistics at Line Level 
+
+
+
+Port E1-1-6-4 is currently Unframed
+
+E1-1-6-4-Path Performance Attributes
+ 	EB-P	BBE-P	ES-P	SES-P	UAS-P	Path Interval Valid
+Current Interval (120 secs)	0	0	0	0	0	0
+Previous 15 Min	0	0	0	0	0	0
+Current Day	0	0	0	0	0	0
+Previous Day	0	0	0	0	0	0
+
+
+Reset Current 15 Min Statistics at Path Level                       Reset Current Day Statistics at Path Level 
+
+
+
+TU12-1-5-1-6-1-1-1
+
+
+
+TU12-1-5-1-6-1-1-1
+ 	ES	SES	UAS	SEP	EB	BBE	ESR	SESR	BBER	SEPI	Interval Valid	ES-FE	SES-FE	BBE-FE	UAS-FE	SEP-FE	Far End I",0.0,0,1,1,0.0,1.0
+110,Global Premium Desk,"Hi Abhijit,
+
+We regret the delay in response.
+We have raised TT CSR01060619170339 on your behalf for NGR circuit. 
+As per our analysis, we have observed flap in our backbone segment. We are investigating the reason for the same.
+We will update you once we complete the analysis.
+Meanwhile, we request you to check and confirm current services.",0.0,0,1,0,0.0,1.0
+111,Global Premium Desk,"
+Dear Customer,
+
+The call got disconnected. 
+
+We tried calling you back on the undersigned number but it went busy.
+
+We are observing the cos1 bandwidth utilization going high intermittently due to which you are facing issues.
+
+Cos1 offered rate is 10240
+
+Please refer to the logs below.
+
+Logs:
+
+*B:pu-me01-hasbr01# show qos scheduler-hierarchy sap lag-6:1201.401  detail | match Tot 
+
+|   |    TotalConsumed:0         
+
+|   |   |    TotalConsumed:0         
+
+|   |   |    TotalConsumed:0         
+
+|   |    TotalConsumed:0         
+
+|   |   |    TotalConsumed:2480      
+
+|   |   |    TotalConsumed:9400
+
+|   |    TotalConsumed:0         
+
+|   |   |    TotalConsumed:0         
+
+|   |   |    TotalConsumed:0         
+
+|   |   |    TotalConsumed:0         
+
+|   |    TotalConsumed:0         
+
+|   |   |    TotalConsumed:1050      
+
+|   |   |    TotalConsumed:2320      
+
+|   |   |    TotalConsumed:3         
+
+*B:pu-me01-hasbr01# show qos scheduler-",0.0,0,0,0,0.0,1.0
+112,Global Premium Desk,"Dear Customer,
+
+ We have raised REQ ticket for  investigate the issue.
+
+Our team will check and keep you posted.",0.0,0,0,0,0.0,0.0
+113,Montreal_SOC,z$šU,0.0,0,0,0,0.0,0.0
+114,EV_SOC,"Dear Customer,
+
+Please check now we have made the route change on the basis of shared samples.
+
+Please keep us posted with the calling observations.",0.0,0,1,0,0.0,1.0
+115,Global Premium Desk,"Dear Customer, 
+
+We are not observing frames from customer end since the CE MUX observed to be rebooted, 
+Suspecting port got hanged. 
+Need to jack in jack out cable at CE MUX ETH Port. 
+ 
+CE MUX Reboot timing. 
+
+ TejasWI - Node Manager
+NDLH_MAHINDRA_KIRTI_01 (192.168.1.254)
+Uptime: 0 Days, 1 Hrs, 37 Min	Tejas Networks",0.0,0,0,0,,1.0
+116,Tx Premium Enterprise Support,"Dear Customer,
+
+We observed issue in our transmission media
+
+VCG-Interval statistics
+
+
+VCG-1-8-110
+Start Time	End Time	Idle Seconds	ES	SES	UAS	Valid Frames Transmitted	Valid Frames Received	Valid Bytes Transmitted	Valid Bytes Received	Core Header Single Error Corrections	Type Header Single Error Corrections	Core Header CRC Errors	Type Header CRC Errors	Payload FCS Errors	VCG Interval Valid
+06-Jun-2019 13:00:00	06-Jun-2019 13:15:00	0	0	0	0	19531120	13509046	10812928524	8499050591	0	0	0	0	0	1
+06-Jun-2019 12:45:00	06-Jun-2019 13:00:00	0	0	0	0	21128242	14904184	12403464300	9094316047	0	0	0	0	0	1
+06-Jun-2019 12:30:00	06-Jun-2019 12:45:00	0	0	0	0	22074004	14912533	13777872018	8457743894	0	0	0	0	0	1
+06-Jun-2019 12:15:00	06-Jun-2019 12:30:00	0	0	0	0	22153474	16005276	12106353425	10682734767	0	0	0	0	0	1
+06-Jun-2019 12:00:00	06-Jun-2019 12:15:00	9	3	0	213	19381707	13873119	10862216019	7322101191	41	0	48	9	12	1
+06-Jun-2019 11:45:00	06-Jun-2019 12:00:00	0	0	0	0	21500523	15022815	12440317988	932702",0.0,0,0,0,0.0,0.0
+117,EV_SOC,"Subject: RE: Unable to dial to US number
+
+Dear Customer, 
+
+Please check now we have made the route change on the basis of shared samples. 
+
+
+
+Thanks & Regards,
+Sandeep Desai ",0.0,0,1,0,0.0,1.0
+118,EV_SOC,"
+Subject: RE: Unable to dial to US number
+
+Dear Customer, 
+
+Please check now we have made the route change on the basis of shared samples. 
+
+
+
+Thanks & Regards,
+",0.0,0,1,0,0.0,1.0
+119,Service Provider_Premium,"Dear Customer,
+
+""We are pleased to inform you that the services have been restored for the above ticket. We will share a detailed RFO within 24hrs. 
+
+Please check and confirm circuit performance""
+
+-------------------------------------------
+
+BGLR_GVCMINDTREE_01 
+
+ETH-1-8-5
+BINNED COUNTERS	Current Interval (429 secs)	Previous 15 min	Current Day	Previous Day
+Idle Seconds	0	0	5	0
+ES	0	0	0	0
+SES	0	0	0	0
+UAS	0	900	7975	0
+Frames Transmitted	36911	50	1136531	62159892
+Frames Received	15185	0	770722	44566400
+Frames Dropped Rx	0	0	0	0
+FCS Error Frames	0	0	0	0
+Octets Transmitted	7891207	3200	490786945	26859928933
+Octets Received	3445447	0	172294503	12514251992
+Frame Too Short Errors	0	0	0	0
+Frame Too Long Errors	0	0	0	0
+Pause Frames Transmitted	0	0	0	0
+Pause Frames Received	0	0	0	0
+Ethernet Interval Valid	0	1	1	1
+Frames Dropped Tx	0	0	0	0
+FCS Error Bytes	0	0	0	0",1.0,24 hrs,1,0,0.0,0.0
+120,Service Provider_Premium,"Hi Steve ,
+
+We are observing link is still down. Also not getting CE end MAC address. 
+
+As per update from last mile team, they do not see any alarm in XYZ transmission network. A long pending alarm is observed from the network device at your site that is connected to the XYZ MUX port at ETH-1-7-1 (NGR_COMPUC4C_03) located at POP ROOM_SP Info-city
+
+The possible cause for the alarms could be any one of the following reasons : Loose connection, Faulty Ethernet connector, or Faulty cable between the MUX port to your network device
+
+Request you to Jack Out-Jack In the cable at XYZ MUX to your network device and check for any fault in cable.
+
+Also request to perform the following checks at the site and update us to check further:-
+
+1. Confirm Power status on network equipment
+2. Check WAN cabling & Update Port Status
+3. Check Modem LED status (if applicable)
+4. Local Site Contact & Site access hours
+
+Awaiting for your valuable response.
+
+Keeping this case on hold till ne",0.0,0,0,0,1.0,1.0
+121,Global Premium Desk,"Dear Customer, 
+
+We have softly rebooted ETH port still link observed to be down, 
+
+Please physically check for the local connectivity and check for auto negotiation settings at your end as well. 
+
+It's disabled at our end. 
+
+Auto-negotiation  : Disable",0.0,0,0,0,,1.0
+122,Global Premium Desk,"Dear Customer,
+
+We are observing that the utilization goes high upto 8mb when you shift traffic on this link.
+Kindly observe the utilization chart attached.
+We checked the local connectivity between PE-CE and no issue is being observed. 
+Kindly share problematic logs so that we can check further.
+
+Logs:
+
+*A:mu-me01-hasbr01# ping router 4755 14.142.155.194 source 14.142.155.193 rapid count 1000 
+PING 14.142.155.194 56 data bytes
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",0.0,0,0,0,0.0,1.0
+123,BFSI_SOC,"On a call with sagar, Rajesh and subod regarding the case.",0.0,0,0,0,0.0,0.0
+124,BFSI_SOC,"Hi Team,
+
+As discussed with you all keeping this case under observation for the next 2 hrs.",1.0,2 hrs,0,0,0.0,0.0
+125,Service Provider_Premium,"Hi Team,
+
+Please update on below mail.",0.0,0,0,0,1.0,1.0
+126,Global Premium Desk,"
+Hi Ankit,
+
+As discussed, please find the cos 1 utilization in real time as circled in the picture below
+
+Logs:
+",0.0,0,0,0,0.0,1.0
+127,BFSI_SOC,"Dear Customer,
+
+This is RE : CSR02070619186290 | 091AHME623014151403 | 
+
+We have verified last mile media, no issue is been observed in media.
+
+We are not observing packet drops between PE_CE WAN.
+
+Kindly share requested logs for more clarity on this issue.
+
+LOGS:
+a. Packet drops for WAN IP / other location IP (if other location: source and destination IP address)
+b. Show interface <wan interface>
+c. Show run interface <wan interface>
+d. Ping for XYZ end WAN IP
+e. If packet drops Observed for other location: trace and hop to hop ping
+
+PE_CE LOGS:
+
+
+# ping router 2059 172.31.7.34 source 172.31.7.33 rapid count 1000 size 1472 
+PING 172.31.7.34 1472 data bytes
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",0.0,0,0,1,0.0,1.0
+128,Global Premium Desk,"Dear Customer,
+
+We are observing the link is working fine .
+Please check and revert if any issue.
+Till then we are keeping the docket on hold.",0.0,,1,1,,
+129,Premium SOC,"Dear Customer, 
+Please be note that On the basis of a preliminary investigation, we observed no active alarm in the media. 
+Please place basic troubleshooting at your end & share current observation. 
+Kindly share Modem indications, local customer details, address, availability along with FLT so that we can investigate further.",0.0,0,0,1,0.0,1.0
+130,BFSI_SOC,"
+
+Hi Snehal,
+
+Kindly share requested logs.
+
+a. Packet drops for WAN IP / other location IP (if other location: source and destination IP address)
+b. Show interface <wan interface>
+c. Show run interface <wan interface",0.0,0,0,0,0.0,1.0
+131,BFSI_SOC,"Hi Snehal,
+
+Kindly share requested logs.
+
+a. Packet drops for WAN IP / other location IP (if other location: source and destination IP address)
+b. Show interface <wan interface>
+c. Show run interface <wan interface>
+d. Ping for XYZ end WAN IP
+e. If packet drops Observed for other location: trace and hop to hop ping
+
+We are keeping this docket on hold for the next 2 hours, post no reply will proceed for the closer of this docket under the customer end.
+
+
+Thanks & Regards,
+",0.0,0,0,0,0.0,1.0
+132,Global Premium Desk,"Hi Team,
+Request you to share VRF name and problematic logs to check further.
+
+We are keeping the ticket on hold for next 2 hrs if no reply ticket will be auto-closed.",1.0,2 hrs,1,0,1.0,1.0
+133,Global Premium Desk,"Hi Team,
+Meanwhile we are verifying media and update you in next 90 mins.
+Request you to share below logs & your observations for more clarity on this issue.
+1. Show interface <wan interface>
+2. Show run interface <wan interface>
+3. Show log",1.0,90 mins,1,1,1.0,1.0
+134,Global Premium Desk,"Hi Team,
+Request you to share source based forward and reverse trace logs to check further.
+We tried to reach you on but call went unanswered.
+Keeping ticket on hold for next 6 hrs.",1.0,6 hrs,1,1,1.0,1.0
+135,BFSI_SOC,"
+
+Dear Customer,
+
+As per our observation link is stable since  3 days and working fine without any drops.
+
+Kindly share the exact problematic logs to check this case further.
+
+We are keeping this docket on hold for next 2 hours, post no reply will proceed for closer of this docket.
+
+Logs:
+
+A:mu-me01-hpe01# show router 8629 ospf neighbor ""Lag 2:1005:116"" detail 
+
+===============================================================================
+OSPFv2 (0) neighbors for interface ""Lag 2:1005:116"" (detailed)
+===============================================================================
+-------------------------------------------------------------------------------
+Neighbor : 10.221.3.1
+--------",1.0,2 hours,1,1,1.0,1.0
+136,BFSI_SOC,"Subject: RE: RE: CSR02070619188984 ||091MUMB623013746481 ||
+
+Dear Customer,
+
+Awaited for response.
+
+As mentioned in mail trail ; link is stable since  3 days and working fine without any drops.
+
+Kindly share the exact problematic logs to check this case further.
+
+LOGS:
+# show router 8629 ospf neighbor ""Lag 2:1005:116"" detail 
+
+===============================================================================
+OSPFv2 (0) neighbors for interface ""Lag 2:1005:116"" (detailed)
+===============================================================================
+-------------------------------------------------------------------------------
+Neighbor : 10.221.3.1
+---------------------",0.0,0,1,1,0.0,1.0
+137,Premium SOC,"Dear Customer,                       
+
+  We are checking the XYZ transmission network based on your complaint. We will share further update shortly.",0.0,0,0,0,0.0,0.0
+138,Service Provider_Premium,"Hi Team,
+
+Please update on below mail.",0.0,0,0,0,1.0,1.0
+139,Service Provider_Premium,"Hi Team,
+
+We are still observing link to be down.
+
+Request you to Jack Out-Jack In the cable at XYZ MUX to your network device and check for any fault in cable. 
+
+Also request to perform the following checks at the site and update us to check further:- 
+
+1. Confirm Power status on network equipment 
+2. Check WAN cabling & Update Port Status 
+3. Check Modem LED status (if applicable) 
+4. Local Site Contact & Site access hours 
+
+Awaiting for your valuable response. 
+
+Keeping this case on hold till next update from your end. 
+
+LOGS: 
+
+# ping router 1767 192.168.75.45 rapid count 100 
+PING 192.168.75.45 56 data bytes
+........................................................................................
+---- 192.168.75.45 PING Statistics ----
+100 packets transmitted, 12 packets bounced, 0 packets received, 100% packet loss
+# show time 
+Sat Jun  8 09:08:02 IST 2019
+
+#  show router 1767 bgp summary | match context all 192.168.75.45 
+192.168.75.45",0.0,0,0,0,1.0,1.0
+140,Service Provider_Premium,Spoke with Murali on he confirmed link is up & stable now.,0.0,0,1,0,0.0,0.0
+141,Service Provider_Premium,Confirmed with customer on call  link is up . Customer also confirmed there was power issue at customer end agreed to close case under customer end.,0.0,0,1,1,0.0,0.0
+142,Service Provider_Premium,"Hi Team,
+
+Already loop break has been verified, no issue observed in XYZ network please ask customer to perform FLT.",0.0,0,0,1,1.0,1.0
+143,Service Provider_Premium,"Confirmed with customer Anil-  link is up. informed him we are not received traffic from customer device 
+And agreed to close case under customer end.",0.0,0,1,0,0.0,0.0
+144,Service Provider_Premium,"Dear Customer, 
+Please note as this is high priority ticket, hence cannot be on hold for longer period.We are closing this case from our end, please open new case in case you are still facing issue with the link. Thank you for your understanding and support.",0.0,0,1,0,0.0,1.0
+145,Service Provider_Premium,"Dear Team,
+
+We are observing alarm is showing clean please check and confirm link status. If no revert in next 4 hours, ticket will be closed under customer end issue.
+
+Checked at: LUKN_GVKEMRI_02
+
+E1-Interval statistics
+
+E1-1-6-13-Line Performance Attributes
+Start Time	End Time	CV-L	ES-L	SES-L	UAS-L	Line Interval Valid
+07-Jun-2019 22:15:00	07-Jun-2019 22:30:00	0	0	0	0	1
+07-Jun-2019 22:00:00	07-Jun-2019 22:15:00	0	0	0	0	1
+07-Jun-2019 21:45:00	07-Jun-2019 22:00:00	0	0	0	0	1
+07-Jun-2019 21:30:00	07-Jun-2019 21:45:00	0	0	0	0	1
+07-Jun-2019 21:15:00	07-Jun-2019 21:30:00	0	0	0	0	1
+07-Jun-2019 21:00:00	07-Jun-2019 21:15:00	0	0	0	0	1
+07-Jun-2019 20:45:00	07-Jun-2019 21:00:00	0	0	0	0	1
+07-Jun-2019 20:30:00	07-Jun-2019 20:45:00	0	0	0	0	1
+07-Jun-2019 20:15:00	07-Jun-2019 20:30:00	0	0	0	0	1
+07-Jun-2019 20:00:00	07-Jun-2019 20:15:00	0	0	0	0	1
+07-Jun-2019 19:45:00	07-Jun-2019 20:00:00	0	0	0	0	1
+07-Jun-2019 19:30:00	07-Jun-2019 19:45:00	0	0	0	0	1
+07-Jun-2019 19:15:00	07-Jun-2019",0.0,0,1,0,0.0,1.0
+146,Global Premium Desk,"Hi Sunildutt,
+
+Main path is UP and stable.
+There is no ETR for protection path due to access issue at site.",0.0,0,1,0,0.0,0.0
+147,Global Premium Desk,"Dear Customer,
+
+Please find below observations::
+
+1.	We are observing a clean ping response to the destination IP 132.148.54.228.
+2.	Observing traceroute is riding on best path.
+3.	As a tier 1 ISP, we are not blocking any packets in our backbone.
+4.	Request you to check with destination end if there is any blocking at their end?
+
+Keeping this case on hold for next 6 hours.
+
+Logs::
+*B:dl-moh-t2-hrt02# ping router 4755 132.148.54.228 source 14.140.201.183 rapid count 1000 
+PING 132.148.54.228 56 data bytes
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",1.0,6 hours,1,1,1.0,0.0
+148,Global Premium Desk,"Dear Customer,
+
+Minor packet drops to the WAN IP are due to ICMP rate limit at the POP end, in order to check further request you to share CLI ping response logs to the destination IP.
+Keeping this case on hold for the next 4 hours.",1.0,4 hours,1,1,1.0,1.0
